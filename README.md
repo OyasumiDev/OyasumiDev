@@ -6,7 +6,7 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 
 <h2 align="center">Tech Stack</h2>
 
-### Lenguajes
+#Lenguajes
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
