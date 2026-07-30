@@ -11,7 +11,6 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
