@@ -59,11 +59,6 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ---
 
 
----
-
-
----
-
 ## Proyectos Relevantes
 
 ### [OfferTrack-M82](https://github.com/OyasumiDev/OfferTrack-M82) — Plataforma de búsqueda laboral asistida por IA
