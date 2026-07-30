@@ -6,7 +6,7 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 
 <h1 align="center">Tech Stack</h1>
 
-### Lenguajes
+# Lenguajes
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
@@ -26,14 +26,14 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### Automatización, scraping e IA
+# Automatización, scraping e IA
 
 ![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
 
 
-### Bases de datos
+# Bases de datos
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
@@ -42,13 +42,13 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/qdrant-DC244C?style=for-the-badge\&logo=qdrant\&logoColor=white)
 
-### Datos y Business Intelligence
+# Datos y Business Intelligence
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
-### DevOps y herramientas
+# DevOps y herramientas
 
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
