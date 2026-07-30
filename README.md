@@ -4,7 +4,7 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 
 ---
 
-# <h2 align="center">Tech Stack</h2>
+<h1 align="center">Tech Stack</h1>
 
 ### Lenguajes
 
