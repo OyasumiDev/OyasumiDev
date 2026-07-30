@@ -1,4 +1,4 @@
-# Gabriel Alejandro Flores Gutiérrez- Monterrey, Nuevo León
+# Gabriel Alejandro Flores Gutiérrez  -  Monterrey, Nuevo León
 
 Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, enfocado en la creación de soluciones locales escalables para la automatización de procesos administrativos.
 
