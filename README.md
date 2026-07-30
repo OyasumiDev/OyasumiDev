@@ -18,7 +18,7 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 
-### Frameworks, backend y escritorio
+# Frameworks, backend y escritorio
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Flet](https://img.shields.io/badge/flet-0175C2?style=for-the-badge\&logo=flutter\&logoColor=white)
