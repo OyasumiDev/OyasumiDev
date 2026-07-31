@@ -143,5 +143,5 @@ Sistema ERP diseñado para centralizar y automatizar procesos administrativos, f
 
 ## Idiomas
 
-* **Español:** nativo.
+* **Español:** Nativo.
 * **Inglés:** intermedio conversacional B1 — Quick Learning, nivel 7.
