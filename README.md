@@ -89,27 +89,30 @@ Plataforma modular para recopilar, normalizar y analizar vacantes de empleo. Int
 
 ---
 
-### Sistema de Gestión Administrativa para PYMES
+### Adminexa-Erp-Pymes
 
 **Junio 2025 – Enero 2026**
 
-Sistema especializado en la automatización y control de procesos administrativos y de personal: asistencias, pagos, préstamos, descuentos y operación interna.
+Diseño y desarrollo de un sistema ERP para centralizar y automatizar procesos administrativos, financieros y de gestión de personal en PYMES, incluyendo asistencias, pagos, préstamos, descuentos y operaciones internas.
 
 **Responsabilidades:**
 
-* Desarrollo e implementación de módulos operativos completos.
-* Interfaz interactiva con edición en línea, tablas, modales, acciones por fila y cálculos en tiempo real.
-* Integración con MySQL mediante consultas optimizadas, triggers y stored procedures.
-* Elaboración de reportes y análisis operativo con Pandas, Power BI, Excel y archivos CSV.
-* Modularización para mejorar mantenibilidad, rendimiento y escalabilidad.
-* Control de versiones con buenas prácticas y evolución incremental.
+- Análisis de requerimientos y desarrollo integral de módulos para un entorno ERP.
+- Automatización de procesos administrativos y operativos.
+- Creación de interfaces interactivas con edición en línea, tablas, modales, acciones por registro y cálculos en tiempo real.
+- Integración con MySQL mediante consultas optimizadas, triggers y procedimientos almacenados.
+- Generación de reportes e indicadores con Pandas, Power BI, Excel y archivos CSV.
+- Diseño de una arquitectura modular enfocada en mantenibilidad, rendimiento y escalabilidad.
+- Control de versiones con Git y GitHub, siguiendo un proceso de desarrollo incremental.
+- Preparación de compilaciones para entornos Windows.
 
 **Tecnologías:**
 
-`Python` `Flet` `MySQL` `SQL` `Triggers / Stored Procedures` `Pandas` `Power BI` `Excel / CSV` `Git / GitHub` `Windows Build`
+`Python` `Flet` `MySQL` `SQL` `Triggers` `Stored Procedures` `Pandas` `Power BI` `Excel` `CSV` `Git` `GitHub` `Windows Build`
+
+**Repositorio:** [OyasumiDev/Adminexa-Erp-Pymes](https://github.com/OyasumiDev/Adminexa-Erp-Pymes)
 
 ---
-
 ### Sistema Automatizado para Negocios Pequeños
 
 **Octubre 2025 – Noviembre 2025**
