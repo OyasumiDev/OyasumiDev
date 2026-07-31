@@ -64,6 +64,8 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+
+## Sobre mí como desarrollador
 ---
 ### [Adminexa ERP](https://github.com/OyasumiDev/Adminexa-Erp-Pymes) — Sistema de gestión empresarial para PYMES
 
@@ -112,7 +114,6 @@ Plataforma modular para recopilar, normalizar y analizar vacantes de empleo. Int
 ---
 
 
-## Sobre mí como desarrollador
 
 ### Habilidades técnicas
 
