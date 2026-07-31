@@ -114,7 +114,7 @@ Plataforma modular para recopilar, normalizar y analizar vacantes de empleo. Int
 ---
 
 
-<h2 align="center">Sobre mí como desarrollador</h2>
+## Sobre mí como desarrollador
 
 ### Habilidades técnicas
 
