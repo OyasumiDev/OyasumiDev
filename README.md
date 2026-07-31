@@ -66,6 +66,7 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 
 
 <h2 align="center">Sobre mí como desarrollador</h2>
+
 ---
 ### [Adminexa ERP](https://github.com/OyasumiDev/Adminexa-Erp-Pymes) — Sistema de gestión empresarial para PYMES
 
