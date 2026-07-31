@@ -65,6 +65,28 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+### [Adminexa ERP](https://github.com/OyasumiDev/Adminexa-Erp-Pymes) — Sistema de gestión empresarial para PYMES
+
+**Junio 2025 – Enero 2026**
+
+Sistema ERP diseñado para centralizar y automatizar procesos administrativos, financieros y de gestión de personal. Integra el control de asistencias, pagos, préstamos, descuentos y operaciones internas en una plataforma modular.
+
+**Responsabilidades:**
+
+- Análisis de requerimientos y desarrollo integral de módulos operativos para el sistema ERP.
+- Automatización de procesos administrativos y de gestión de personal.
+- Desarrollo de interfaces interactivas con edición en línea, tablas, modales, acciones por registro y cálculos en tiempo real.
+- Diseño e integración de bases de datos MySQL mediante consultas optimizadas, triggers y procedimientos almacenados.
+- Elaboración de reportes e indicadores operativos con Pandas, Power BI, Excel y archivos CSV.
+- Implementación de una arquitectura modular orientada a la mantenibilidad, el rendimiento y la escalabilidad.
+- Gestión del código fuente con Git y GitHub mediante un flujo de desarrollo incremental.
+- Preparación y distribución de compilaciones para entornos Windows.
+
+**Tecnologías:**
+
+`Python` `Flet` `MySQL` `SQL` `Triggers` `Stored Procedures` `Pandas` `Power BI` `Excel` `CSV` `Git` `GitHub` `Windows Build`
+
+---
 
 ## Proyectos Relevantes
 
@@ -89,28 +111,6 @@ Plataforma modular para recopilar, normalizar y analizar vacantes de empleo. Int
 
 ---
 
-### [Adminexa ERP](https://github.com/OyasumiDev/Adminexa-Erp-Pymes) — Sistema de gestión empresarial para PYMES
-
-**Junio 2025 – Enero 2026**
-
-Sistema ERP diseñado para centralizar y automatizar procesos administrativos, financieros y de gestión de personal. Integra el control de asistencias, pagos, préstamos, descuentos y operaciones internas en una plataforma modular.
-
-**Responsabilidades:**
-
-- Análisis de requerimientos y desarrollo integral de módulos operativos para el sistema ERP.
-- Automatización de procesos administrativos y de gestión de personal.
-- Desarrollo de interfaces interactivas con edición en línea, tablas, modales, acciones por registro y cálculos en tiempo real.
-- Diseño e integración de bases de datos MySQL mediante consultas optimizadas, triggers y procedimientos almacenados.
-- Elaboración de reportes e indicadores operativos con Pandas, Power BI, Excel y archivos CSV.
-- Implementación de una arquitectura modular orientada a la mantenibilidad, el rendimiento y la escalabilidad.
-- Gestión del código fuente con Git y GitHub mediante un flujo de desarrollo incremental.
-- Preparación y distribución de compilaciones para entornos Windows.
-
-**Tecnologías:**
-
-`Python` `Flet` `MySQL` `SQL` `Triggers` `Stored Procedures` `Pandas` `Power BI` `Excel` `CSV` `Git` `GitHub` `Windows Build`
-
----
 
 ## Sobre mí como desarrollador
 
