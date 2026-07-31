@@ -65,7 +65,7 @@ Desarrollador de aplicaciones de escritorio con **1.5 años de experiencia**, en
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-<h2 align="center">Sobre mí como desarrollador</h2>
+## Proyectos Relevantes
 
 ---
 ### [Adminexa ERP](https://github.com/OyasumiDev/Adminexa-Erp-Pymes) — Sistema de gestión empresarial para PYMES
@@ -91,7 +91,6 @@ Sistema ERP diseñado para centralizar y automatizar procesos administrativos, f
 
 ---
 
-## Proyectos Relevantes
 
 ### [OfferTrack-M82](https://github.com/OyasumiDev/OfferTrack-M82) — Plataforma de búsqueda laboral asistida por IA
 
@@ -115,6 +114,7 @@ Plataforma modular para recopilar, normalizar y analizar vacantes de empleo. Int
 ---
 
 
+<h2 align="center">Sobre mí como desarrollador</h2>
 
 ### Habilidades técnicas
 
