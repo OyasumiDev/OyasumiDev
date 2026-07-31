@@ -76,12 +76,12 @@ Plataforma modular para recopilar, normalizar y analizar vacantes de empleo. Int
 
 **Responsabilidades:**
 
-* Desarrollo de un núcleo modular en Go con separación entre dominio, servicios, configuración y proveedores de IA.
-* Implementación de una API local con Node.js, TypeScript y Express para recopilar y procesar vacantes.
-* Automatización de scraping web con Playwright y procesamiento de HTML mediante Cheerio.
-* Generación de embeddings y almacenamiento vectorial con Qdrant para análisis semántico.
-* Integración de proveedores de IA locales y externos mediante una arquitectura intercambiable.
-* Configuración de Docker Compose y GitHub Actions para contenedores, compilación, linting y pruebas.
+- Desarrollo de un núcleo modular en Go con separación entre dominio, servicios, configuración y proveedores de IA.
+- Implementación de una API local con Node.js, TypeScript y Express para recopilar y procesar vacantes.
+- Automatización de scraping web con Playwright y procesamiento de HTML mediante Cheerio.
+- Generación de embeddings y almacenamiento vectorial con Qdrant para análisis semántico.
+- Integración de proveedores de IA locales y externos mediante una arquitectura intercambiable.
+- Configuración de Docker Compose y GitHub Actions para contenedores, compilación, linting y pruebas.
 
 **Tecnologías:**
 
@@ -89,47 +89,26 @@ Plataforma modular para recopilar, normalizar y analizar vacantes de empleo. Int
 
 ---
 
-### Adminexa-Erp-Pymes
+### [Adminexa ERP](https://github.com/OyasumiDev/Adminexa-Erp-Pymes) — Sistema de gestión empresarial para PYMES
 
 **Junio 2025 – Enero 2026**
 
-Diseño y desarrollo de un sistema ERP para centralizar y automatizar procesos administrativos, financieros y de gestión de personal en PYMES, incluyendo asistencias, pagos, préstamos, descuentos y operaciones internas.
+Sistema ERP diseñado para centralizar y automatizar procesos administrativos, financieros y de gestión de personal. Integra el control de asistencias, pagos, préstamos, descuentos y operaciones internas en una plataforma modular.
 
 **Responsabilidades:**
 
-- Análisis de requerimientos y desarrollo integral de módulos para un entorno ERP.
-- Automatización de procesos administrativos y operativos.
-- Creación de interfaces interactivas con edición en línea, tablas, modales, acciones por registro y cálculos en tiempo real.
-- Integración con MySQL mediante consultas optimizadas, triggers y procedimientos almacenados.
-- Generación de reportes e indicadores con Pandas, Power BI, Excel y archivos CSV.
-- Diseño de una arquitectura modular enfocada en mantenibilidad, rendimiento y escalabilidad.
-- Control de versiones con Git y GitHub, siguiendo un proceso de desarrollo incremental.
-- Preparación de compilaciones para entornos Windows.
+- Análisis de requerimientos y desarrollo integral de módulos operativos para el sistema ERP.
+- Automatización de procesos administrativos y de gestión de personal.
+- Desarrollo de interfaces interactivas con edición en línea, tablas, modales, acciones por registro y cálculos en tiempo real.
+- Diseño e integración de bases de datos MySQL mediante consultas optimizadas, triggers y procedimientos almacenados.
+- Elaboración de reportes e indicadores operativos con Pandas, Power BI, Excel y archivos CSV.
+- Implementación de una arquitectura modular orientada a la mantenibilidad, el rendimiento y la escalabilidad.
+- Gestión del código fuente con Git y GitHub mediante un flujo de desarrollo incremental.
+- Preparación y distribución de compilaciones para entornos Windows.
 
 **Tecnologías:**
 
 `Python` `Flet` `MySQL` `SQL` `Triggers` `Stored Procedures` `Pandas` `Power BI` `Excel` `CSV` `Git` `GitHub` `Windows Build`
-
-**Repositorio:** [OyasumiDev/Adminexa-Erp-Pymes](https://github.com/OyasumiDev/Adminexa-Erp-Pymes)
-
----
-### Sistema Automatizado para Negocios Pequeños
-
-**Octubre 2025 – Noviembre 2025**
-
-Sistema enfocado en la digitalización y control de procesos operativos: gestión interna, flujos de pago, control de registros y operación diaria.
-
-**Responsabilidades:**
-
-* Desarrollo de módulos administrativos con reglas de negocio definidas.
-* Diseño de una interfaz reutilizable y consistente.
-* Implementación de módulos para trabajadores, inventario, servicios, agenda y registro de operaciones.
-* Optimización de UX mediante control de edición por estado, prevención de acciones duplicadas, scroll automático y estabilidad de interfaz.
-* Control de versiones y evolución incremental del sistema.
-
-**Tecnologías:**
-
-`Python` `Flet` `MySQL` `SQL` `Git / GitHub`
 
 ---
 
